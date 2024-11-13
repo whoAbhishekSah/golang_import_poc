@@ -8,6 +8,6 @@ import (
 
 func main() {
 	fmt.Println(calculator.Add(1, 2))
-	fmt.Println(internal.Add(1, 2))
+	fmt.Println(my_internal.Add(1, 2))
 	return
 }
