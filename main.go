@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/whoAbhishekSah/golang_import_poc/calculator"
-	"github.com/whoAbhishekSah/golang_import_poc/internal"
+	"github.com/whoAbhishekSah/golang_import_poc/my_internal"
 )
 
 func main() {
