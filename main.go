@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/whoAbhisheksah/golang_import_poc/calculator"
+	"github.com/whoAbhishekSah/golang_import_poc/calculator"
 )
 
 func main() {
